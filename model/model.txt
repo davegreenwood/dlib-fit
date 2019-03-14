@@ -1,0 +1,2 @@
+Place the dlib model in this directory:
+shape_predictor_68_face_landmarks.dat
